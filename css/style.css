@@ -62,6 +62,7 @@ nav ul li a {
 
 nav ul li a:hover {
   color: #ffcc00;
+  /*text-align: center;*/
 }
 
 /* Seções */
